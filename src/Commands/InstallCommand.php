@@ -1,11 +1,11 @@
 <?php
 
-namespace Spatie\LaravelPackageTools\Commands;
+namespace SH\LaravelPackageTools\Commands;
 
 use Closure;
 use Illuminate\Console\Command;
 use Illuminate\Support\Str;
-use Spatie\LaravelPackageTools\Package;
+use SH\LaravelPackageTools\Package;
 
 class InstallCommand extends Command
 {

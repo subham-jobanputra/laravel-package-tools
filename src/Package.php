@@ -1,9 +1,9 @@
 <?php
 
-namespace Spatie\LaravelPackageTools;
+namespace SH\LaravelPackageTools;
 
 use Illuminate\Support\Str;
-use Spatie\LaravelPackageTools\Commands\InstallCommand;
+use SH\LaravelPackageTools\Commands\InstallCommand;
 
 class Package
 {

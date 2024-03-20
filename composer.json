@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\LaravelPackageTools\\": "src"
+            "SH\\LaravelPackageTools\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\LaravelPackageTools\\Tests\\": "tests"
+            "SH\\LaravelPackageTools\\Tests\\": "tests"
         }
     },
     "scripts": {
